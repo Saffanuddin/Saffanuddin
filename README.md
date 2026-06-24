@@ -22,9 +22,6 @@
 - 🌐 Currently learning **Web Development, Cybersecurity, AI & Machine Learning**  
 - 💻 Completed and actively working on **CS50 (Harvard) projects**  
 - 🔐 Strong interest in **Cybersecurity & Ethical Hacking**  
-- 🧠 Love solving real-world problems using technology  
-- ⚡ Always learning, building, and improving every day  
-- 🚀 Focused on becoming a **job-ready full-stack + security engineer**
 
 ---
 
@@ -33,7 +30,6 @@
 - 📧 Email: **saffanuddinmohammed@gmail.com**
 - 🤝 Open for: Collaboration / Projects / Tech Discussions
 - 💬 Ask me about: Web Development, DSA, Cybersecurity, AI/ML, Open Source
-- 🌱 Currently learning: **Web Development, Machine Learning, DSA**
 - 😄 Pronouns: Mohammad.Saffanuddin
 
 ---
