@@ -43,18 +43,14 @@
   <a href="https://github.com/Saffanuddin">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/mohammad saffanuddin">
+  <a href="https://linkedin.com/in/mohammad-saffanuddin-a69805316/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/your-profile">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-1f425f?style=for-the-badge&logo=web&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
